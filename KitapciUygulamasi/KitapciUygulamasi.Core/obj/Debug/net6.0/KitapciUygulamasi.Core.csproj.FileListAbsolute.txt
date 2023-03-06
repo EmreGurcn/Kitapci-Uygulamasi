@@ -1,0 +1,12 @@
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Core\bin\Debug\net6.0\KitapciUygulamasi.Core.deps.json
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Core\bin\Debug\net6.0\KitapciUygulamasi.Core.dll
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Core\bin\Debug\net6.0\KitapciUygulamasi.Core.pdb
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Core\obj\Debug\net6.0\KitapciUygulamasi.Core.csproj.AssemblyReference.cache
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Core\obj\Debug\net6.0\KitapciUygulamasi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Core\obj\Debug\net6.0\KitapciUygulamasi.Core.AssemblyInfoInputs.cache
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Core\obj\Debug\net6.0\KitapciUygulamasi.Core.AssemblyInfo.cs
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Core\obj\Debug\net6.0\KitapciUygulamasi.Core.csproj.CoreCompileInputs.cache
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Core\obj\Debug\net6.0\KitapciUygulamasi.Core.dll
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Core\obj\Debug\net6.0\refint\KitapciUygulamasi.Core.dll
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Core\obj\Debug\net6.0\KitapciUygulamasi.Core.pdb
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Core\obj\Debug\net6.0\ref\KitapciUygulamasi.Core.dll

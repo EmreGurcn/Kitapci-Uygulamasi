@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KitaciUygulamasi.Entities/1.0.0": {
+        "dependencies": {
+          "KitapciUygulamasi.Core": "1.0.0"
+        },
+        "runtime": {
+          "KitaciUygulamasi.Entities.dll": {}
+        }
+      },
+      "KitapciUygulamasi.Core/1.0.0": {
+        "runtime": {
+          "KitapciUygulamasi.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KitaciUygulamasi.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KitapciUygulamasi.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

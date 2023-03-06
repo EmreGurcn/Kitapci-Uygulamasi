@@ -1,0 +1,15 @@
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitaciUygulamasi.Entities\bin\Debug\net6.0\KitaciUygulamasi.Entities.deps.json
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitaciUygulamasi.Entities\bin\Debug\net6.0\KitaciUygulamasi.Entities.dll
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitaciUygulamasi.Entities\bin\Debug\net6.0\KitaciUygulamasi.Entities.pdb
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitaciUygulamasi.Entities\bin\Debug\net6.0\KitapciUygulamasi.Core.dll
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitaciUygulamasi.Entities\bin\Debug\net6.0\KitapciUygulamasi.Core.pdb
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitaciUygulamasi.Entities\obj\Debug\net6.0\KitaciUygulamasi.Entities.csproj.AssemblyReference.cache
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitaciUygulamasi.Entities\obj\Debug\net6.0\KitaciUygulamasi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitaciUygulamasi.Entities\obj\Debug\net6.0\KitaciUygulamasi.Entities.AssemblyInfoInputs.cache
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitaciUygulamasi.Entities\obj\Debug\net6.0\KitaciUygulamasi.Entities.AssemblyInfo.cs
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitaciUygulamasi.Entities\obj\Debug\net6.0\KitaciUygulamasi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitaciUygulamasi.Entities\obj\Debug\net6.0\KitaciUygulamasi.Entities.csproj.CopyComplete
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitaciUygulamasi.Entities\obj\Debug\net6.0\KitaciUygulamasi.Entities.dll
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitaciUygulamasi.Entities\obj\Debug\net6.0\refint\KitaciUygulamasi.Entities.dll
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitaciUygulamasi.Entities\obj\Debug\net6.0\KitaciUygulamasi.Entities.pdb
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitaciUygulamasi.Entities\obj\Debug\net6.0\ref\KitaciUygulamasi.Entities.dll

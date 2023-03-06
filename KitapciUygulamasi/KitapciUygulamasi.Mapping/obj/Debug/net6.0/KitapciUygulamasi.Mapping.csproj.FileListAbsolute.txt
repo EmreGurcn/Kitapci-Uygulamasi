@@ -1,0 +1,17 @@
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\bin\Debug\net6.0\KitapciUygulamasi.Mapping.deps.json
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\bin\Debug\net6.0\KitapciUygulamasi.Mapping.dll
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\bin\Debug\net6.0\KitapciUygulamasi.Mapping.pdb
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\bin\Debug\net6.0\KitaciUygulamasi.Entities.dll
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\bin\Debug\net6.0\KitapciUygulamasi.Core.dll
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\bin\Debug\net6.0\KitaciUygulamasi.Entities.pdb
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\bin\Debug\net6.0\KitapciUygulamasi.Core.pdb
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\obj\Debug\net6.0\KitapciUygulamasi.Mapping.csproj.AssemblyReference.cache
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\obj\Debug\net6.0\KitapciUygulamasi.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\obj\Debug\net6.0\KitapciUygulamasi.Mapping.AssemblyInfoInputs.cache
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\obj\Debug\net6.0\KitapciUygulamasi.Mapping.AssemblyInfo.cs
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\obj\Debug\net6.0\KitapciUygulamasi.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\obj\Debug\net6.0\KitapciUygulamasi.Mapping.csproj.CopyComplete
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\obj\Debug\net6.0\KitapciUygulamasi.Mapping.dll
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\obj\Debug\net6.0\refint\KitapciUygulamasi.Mapping.dll
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\obj\Debug\net6.0\KitapciUygulamasi.Mapping.pdb
+C:\Users\emreg\OneDrive\Masaüstü\KitapciUygulamasi\KitapciUygulamasi.Mapping\obj\Debug\net6.0\ref\KitapciUygulamasi.Mapping.dll
